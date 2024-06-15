@@ -1,5 +1,16 @@
-# Hi there! 👋 Oguntuga Oluwadamilare. Welcome to my GitHub
+### Hi there! 👋 I'm Oguntuga Oluwadamilare. Welcome to my GitHub
 
+## About Me
+
+I'm a dedicated Software Engineer with a focus on backend technologies. I enjoy building robust, scalable applications that solve real-world problems. I specialize in Python, JavaScript, Django, Flask, and more.
+
+## Skills
+
+- **Languages:** Python, JavaScript, HTML, CSS, Go
+- **Frameworks:** Django, Flask, Flutter
+- **Databases:** PostgreSQL, MySQL
+- **ORM Technology:** SQLAlchemy
+  
 ## Contact
 
 Feel free to reach out if you're interested in collaboration or have any questions!
