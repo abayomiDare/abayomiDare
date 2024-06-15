@@ -15,8 +15,8 @@ I'm a dedicated Software Engineer with a focus on backend technologies. I enjoy 
 
 Feel free to reach out if you're interested in collaboration or have any questions!
 
-- LinkedIn: [https://www.linkedin.com/in/oluwadamilare-oguntuga-179aa3216/]
-- Email: [01.abayomidare@gmail.com]
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwadamilare-oguntuga-179aa3216/)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](01.abayomidare@gmail.com)
 
 [![Abayomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=abayomiDare&show_icons=true&theme=radical)](https://github.com/abayomiDare/github-readme-stats)
 
